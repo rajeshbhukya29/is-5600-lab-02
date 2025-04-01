@@ -146,3 +146,6 @@ document.addEventListener("DOMContentLoaded", () => {
       document.querySelector("#logo").src = `logos/${symbol}.svg`;
   }
 });
+
+
+
